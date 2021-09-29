@@ -128,7 +128,7 @@ int main(){
     break;
      case 2:
       cout<<" \t el menu de pupusas "<<endl;
-      cout<<" --------------------------------------------------\n"<<endl;
+      cout<<" -----------------------------------\n"<<endl;
         cout<<"ingrese cuantas pupusas de frijol con queso quieren : ";
         cin>>frijolqueso;
         cout<<"ingrese cuantas pupusas revueltas quieren: ";
